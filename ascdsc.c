@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main() {
-    int i,j,n,a[50],temp,x,y;
+    int i,j,n,a[50],temp;
     printf("how many terms do you want");
     scanf("%d",&n);
     for(i=0;i<n;i++)
